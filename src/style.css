@@ -1,1 +1,12 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: green;
+}
+
+p.number {
+  font-size: 13vw;
+}
+p.suit {
+  font-size: 7vw;
+}
