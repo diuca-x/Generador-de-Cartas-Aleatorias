@@ -10,3 +10,7 @@ p.number {
 p.suit {
   font-size: 7vw;
 }
+
+p.upsidedown {
+  transform: rotate(180deg);
+}
